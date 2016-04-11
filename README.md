@@ -1,4 +1,4 @@
-# js-angular-journal
+# js-journal
 
 ## Created By
 Isabelle George & Neil Larion
@@ -8,7 +8,7 @@ Very basic JavaScript web app to enter blog/journal entries
 
 #### Setup/Installation Requirements
 
-* run `git clone https://https://github.com/10igeorge/js-angular-journal`
+* run `git clone https://https://github.com/10igeorge/js-journal`
 
 ##### License
 
